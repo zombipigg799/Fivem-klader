@@ -1,0 +1,5 @@
+Instaliavimo instrukcija Single Player:
+1. Įjunkite OpenIV arba CodeWalker RPF explorer programą.
+2. Imeskite aplanką "x64" į savo "mods" folder.
+
+Šias ir daug kitų FiveM paruoštų tr. priemonių, aprangų ir kt. galima atsisiūsti: https://discord.gg/H9VXpYTYnX
