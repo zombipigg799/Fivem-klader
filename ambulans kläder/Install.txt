@@ -1,3 +1,0 @@
-Instaliavimo instrukcija Single Player:
-1. Turn on OpenIV or CodeWalker RPF explorer.
-2. Drop the "x64" folder from this archive to your "mods".
